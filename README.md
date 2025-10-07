@@ -15,5 +15,6 @@ The image shows set of animals like elephants, camels and cows that represents r
 *An algorithm represents unsupervised learning process which can be clustering, dimensionality reduction or anomaly detection to identify patterns in the data.
 
 *The processing stage shows the algorithm working on the data.
+
 *The output shows the results of the unsupervised learning process. In this case, the algorithm might have grouped the animals into clusters based on their species (elephants, camels, cows).
 
